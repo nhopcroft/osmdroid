@@ -1,7 +1,7 @@
 package org.osmdroid.sample;
 
 import android.os.Bundle;
-import android.preference.PreferenceManager;
+import androidx.preference.PreferenceManager;
 
 import org.osmdroid.config.Configuration;
 import org.osmdroid.simplemap.R;
